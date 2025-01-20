@@ -1,6 +1,6 @@
 # Wiratama Website
 
-You can access this website it at: [gulingan2021](https://arweave.net/PD_HG4Qo4dQ3KYg5VHl0yYRfSaDmeAI0kvlwpRTin_w/)
+You can access this website it at: [wiratama](https://arweave.net/PD_HG4Qo4dQ3KYg5VHl0yYRfSaDmeAI0kvlwpRTin_w/)
 
 ## Screenshots Website Menu
 
